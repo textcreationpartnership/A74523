@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for alteration of several names and forms heretofore used in courts, writs, grants, patents, commissions, &amp;c. and setling of proceedings in courts of law, justice and equity, within the Commonwealth of England, Scotland, and Ireland, according to the present government.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74523</idno>
+            <idno type="STC">Thomason E1063_4</idno>
+            <idno type="STC">ESTC R209531</idno>
+            <idno type="EEBO-CITATION">99868407</idno>
+            <idno type="PROQUEST">99868407</idno>
+            <idno type="VID">169170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for alteration of several names and forms heretofore used in courts, writs, grants, patents, commissions, &amp;c. and setling of proceedings in courts of law, justice and equity, within the Commonwealth of England, Scotland, and Ireland, according to the present government.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 9-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, Printer to His Highness the Lord Protector,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCLIII. [1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Order to print dated: 26 December 1653.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Lord Protector (1653-1658 : O. Cromwell) --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:169170:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE For alteration of ſeveral Names and Forms heretofore uſed in Courts, Writs, Grants, Pa<g ref="char:EOLhyphen"/>tents, Commiſſions, &amp;c. and ſetling of Proceed<g ref="char:EOLhyphen"/>ings in Courts of Law, Juſtice and Equity, with<g ref="char:EOLhyphen"/>in the Commonwealth of <hi>England, Scotland,</hi> and <hi>I<g ref="char:EOLhyphen"/>reland,</hi> according to the preſent Government.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>LIVER, LORD PROTECTOR</hi> of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, having the Exerciſe of the chief Magiſtracy, and the Adminiſtration of Government within the ſaid Commonwealth, inveſted and eſtabliſhed in His Highneſs, aſſiſt<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:169170:2"/> with a Council, who have Power until the meeting of the next Parliament (which is to be on the third day of <hi>September,</hi> now next enſuing) to make Laws and Ordinances for the Peace and welfare of theſe Nations, where it ſhall be neceſſary, which ſhall be binding and in force until Order ſhall be taken in Parliament concerning the ſame.</p>
+            <p>And the ſaid <hi>LORD PROTECTOR</hi> find<g ref="char:EOLhyphen"/>ing it to be moſt neceſſary, that ſome ſpeedy and effectual courſe be taken for ſetling the Names, and Forms to be uſed in Parents, Commiſſi<g ref="char:EOLhyphen"/>ons, and Procedings in Courts of Iuſtice, the ſaid <hi>LORD PROTECTOR,</hi> by, and with the Advice and Conſent of His ſaid Council, and in purſuance of, and according to the Power and Truſt repoſed in Him and them, doth De<g ref="char:EOLhyphen"/>clare and Ordain, And be it by the Authority a<g ref="char:EOLhyphen"/>foreſaid Declared and Ordained. That in all Courts of Law, Iuſtice or Equity, and in all Writs, Grants, Patents, Commiſſions, Indict<g ref="char:EOLhyphen"/>ments, Informations, Suits, Returns of Writs, and in all Fines, Recoveries, Exem<g ref="char:EOLhyphen"/>plifications, Recognizances, Proceſs and Pro<g ref="char:EOLhyphen"/>ceedings of Law, Iuſtice or Equity, within the ſaid Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, inſtead of the Name, Stile, Title and Teſte (of <hi>the Keepers of the Liberty of <hi>England</hi> by Authori<g ref="char:EOLhyphen"/>ty of Parliament</hi>) heretofore uſed, that from and after the ſix and twentieth day of <hi>December, 1653</hi> the Name, Stile, Title and Teſte of the <hi>LORD PROTECTOR,</hi> for the time being, of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, ſhall be u<g ref="char:EOLhyphen"/>ſed, and no other; And the date ſhall be in the year of our Lord and no other.</p>
+            <pb n="11" facs="tcp:169170:2"/>
+            <p>And that all Duties, Profits, Penalties, Iſſues, Fines, Amercements, and Forfeitures whatſoever, which heretofore were ſued for in the name of the K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epers of the Liberty of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by Authority of) Parliament, ſhall from &amp; after the ſaid ſix and twentieth day of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> be proſecuted, ſued forth, and recovered in the ſaid name of the <hi>LORD PROTECTOR</hi> for the time being, of the Common wealth of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, and no other. And in all or any of the proceedings aforeſaid, where the words were, [The Iurors for the Common<g ref="char:EOLhyphen"/>wealth] or, [The Iurors for the Keepers of the Liberty of <hi>England</hi> by Authority of Parlia<g ref="char:EOLhyphen"/>ment, do ſay or preſent from and after the ſaid ſix and twentieth day of <hi>Decemb</hi> it ſhall be, The Iurors for the <hi>LORD PROTECTOR</hi> of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland, &amp;c.</hi> do ſay, or preſent, and no other.</p>
+            <p>And all Iudges, Iuſtices, Officers and Miniſters of Iuſtice whatſoever, are to take notice hereof, and are hereby Authorized and Required to proceed accordingly; And whatſoe<g ref="char:EOLhyphen"/>ver ſhall from &amp; after the ſaid ſix and twentieth day of <hi>December</hi> be done contrary to this Ordi<g ref="char:EOLhyphen"/>nance, ſhall be, and is hereby Declared to be null and void.</p>
+            <p>And it is hereby further Declared and Or<g ref="char:EOLhyphen"/>dained by the Authority aforeſaid, That all Writs, Commiſsions, Indictments, Infor<g ref="char:EOLhyphen"/>mations, Actions, Suits, Bills or Plaints now depending in any of the Courts of Record at <hi>Weſtminſter,</hi> or any other Court of Record, And all Pleas, Demurrers, Continuances, and Proceedings whatſoever in all and every ſuch
+<pb n="12" facs="tcp:169170:3"/> Indictments, Informations, Actions, Suits, Bills and Plaints ſhall be returnable, ſtand good and effectuall, and be proſecuted and ſued forth in ſuch manner and form, and in the ſame ſtate, condition and order (the ſaid Changes and Alterations to be as in this Ordinance are particularly expreſſed) as if the change of Go<g ref="char:EOLhyphen"/>vernment had not been made, any Law, Cu<g ref="char:EOLhyphen"/>ſtom, or Vſage to the contrary thereof in any wiſe notwithſtanding; And that any variance that ſhall be occaſioned by reaſon thereof, touch<g ref="char:EOLhyphen"/>ing any the ſaid Writs, Proceſs, or Proceedings, in the Name, Stile, Teſte, or otherwiſe, ſhall not be in any wiſe material, as concerning any default or error to be alledged or objected there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>And it is further Declared and Ordained by the ſaid <hi>LORD PROTECTOR,</hi> with the conſent of His Council. That from and after the ſaid ſix and twentieth day of this inſtant <hi>De<g ref="char:EOLhyphen"/>cember,</hi> All Indictments, Preſentments, and Inquiſitions for Treaſons, Felonies, Miſpri<g ref="char:EOLhyphen"/>ſions and other Treſpaſſes and Miſdemeanours whatſoever, the pleadings therein, and the iſſues thereupon, ſhall and may be joined with ſuch perſon and perſons ſo Indicted, Preſented, or Proſecuted by the Clerks of the ſeveral Courts wherein ſuch Indictments, Preſent<g ref="char:EOLhyphen"/>ments or Inquiſitions ſhall be Proceeded upon, for and on the behalf of the <hi>LORD PROTEC<g ref="char:EOLhyphen"/>TOR,</hi> as his Atturney, in ſuch ſort, manner and form, as they might have done, before the tenth day of this inſtant <hi>December, for and on the behalf of the Keepers of the Liberty,</hi> Any Law, Cuſtome or uſage to the contrary in any wiſe notwithſtanding. And be it alſo Declared and
+<pb n="13" facs="tcp:169170:3"/> Ordained by the Authority aforeſaid, That all Indictments, Preſentments, and Inquiſi<g ref="char:EOLhyphen"/>tions taken by Coroners, And all Actions, In<g ref="char:EOLhyphen"/>formations and Suits, for and on the behalf of the Keepers of the Liberty, or for and on the behalf of the ſaid Keepers &amp; ſome Informer or Informers, and now depending, or which did de<g ref="char:EOLhyphen"/>pend, in any Court of Iuſtice, the tenth day of <hi>December</hi> inſtant, ſhall not be diſcontinued, or put without day, by this change of Government, but that the Proceſs, Pleas, Demurrers, Iſ<g ref="char:EOLhyphen"/>ſues and Continuances in every of the ſaid In<g ref="char:EOLhyphen"/>dictments, Preſentments, Inquiſitions, Acti<g ref="char:EOLhyphen"/>ons, Informations and Suits, ſhall ſtand good and effectual, and be continued, proſecuted, and ſued forth, in ſuch manner and form, and in the ſame Eſtate, Condition, and Order, as the ſame were at the tenth day of <hi>December</hi> afore<g ref="char:EOLhyphen"/>ſaid; And that all manner of Iudicial proceſs that ſhall be had or purſued ſince the ſaid tenth day of this inſtant <hi>December,</hi> upon the ſaid In<g ref="char:EOLhyphen"/>dictments, Preſentments, Inquiſitions, Acti<g ref="char:EOLhyphen"/>ons, Informations or Suits, or upon the Pleas, Demurrers, or Iſſues, &amp; all proceedings thereupon, ſhall be had, made and proſecuted in the Name of the <hi>LORD PROTECTOR,</hi> or as well by Him as by the Informer or Informers; And that variance touching the ſame Proceſs and proceedings between the name of the ſaid Keepers and the ſaid <hi>LORD PROTECTOR,</hi> ſhall not be in any wiſe material as concerning any default or error to be alleged or objected for the ſame. And it is further Ordained, that all Indictments, Preſentments, or Inquiſiti<g ref="char:EOLhyphen"/>ons, Actions, Suits, or Informations for any offence committed or done in the time of the
+<pb n="14" facs="tcp:169170:4"/> ſaid Keepers of the Liberty, &amp;c. or for any Debt due to the late King or Keepers of the Liberty, &amp;c. or Cauſe of Action or Suit by Him or them, and were to be had, made, done, or proſecuted in the Name of the ſaid late King or the Keepers of the Liberty, <hi>&amp;c.</hi> and an Informer or Informers re<g ref="char:EOLhyphen"/>ſpectively, the ſame ſhall be had, made, done, and proſecuted, in the Name, and on the behalf of the <hi>LORD PROTECTOR,</hi> or in his Name, and the Name of ſome Informer or Informers, as the Caſe ſhall require, in ſuch ſort as where ſuch offences were committed, or where ſuch Cauſe of Action was in one Kings time, and the Indictments, Preſentments, Inquiſitions, Actions, Informations and Suits, were to be in another Kings time, ſaving that the Name of the ſaid <hi>LORD PROTECTOR</hi> ſhall be uſed in the ſtead and place of the ſucceeding King, or the Keepers of the Liberty, <hi>&amp;c.</hi> And it is like<g ref="char:EOLhyphen"/>wiſe Ordained by the Authority aforeſaid, That all Indictments, Preſentments, Inquiſitions, Actions, Informations, or Suits, for any of<g ref="char:EOLhyphen"/>fence had, made, commited or done ſince the death of the late King, or for any debt, duty, or mat<g ref="char:EOLhyphen"/>ter growing due, or cauſe of Action ariſing ſince that time, ſhall be had, made, done and proſe<g ref="char:EOLhyphen"/>cuted in the Name and for the behalf of the <hi>LORD PROTECTOR</hi> of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> or in the Name of Him and an Informer or Infor<g ref="char:EOLhyphen"/>mers, as the Caſe ſhall require; And that the Alterations, Additions, and Omiſſions in this Ordinance mentioned, ſhall extend aſwel unto Appeals as Indictments, Preſentments, and Inquiſitions, as the Caſe ſhall require.</p>
+            <p>And it is further Ordained by the Authority
+<pb n="15" facs="tcp:169170:4"/> aforeſaid, That in all Oaths to be given to any Grand Iury or Petty Iury, or to, or for any Witneſſes to give in Evidence to any ſuch Iu<g ref="char:EOLhyphen"/>ry or Iuries, and in all other Oaths wherein the name of <hi>Keepers of the Liberty, &amp;c.</hi> was wont to be uſed, the ſame ſhall be given in the name of the <hi>LORD PROTECTOR</hi> inſtead of the name of <hi>the ſaid Keepers, &amp;c.</hi> any Law, Vſage or Cuſtome to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding. And it is laſtly Ordained by the Authority aforeſaid, That ſuch forms and courſe of proceedings as were heretofore uſed in the name and time of the Keepers of the Liberty, <hi>&amp;c.</hi> in Cauſes Criminal or Civil, and of which no alteration is made in this Ordi<g ref="char:EOLhyphen"/>nance, ſhall ſtand and continue to be ſo uſed and obſerved as formerly; And that all In<g ref="char:EOLhyphen"/>dictments, Preſentments, Inquiſitions, Commiſſions, and Captions made with ſuch Alterations, Additions, or Omiſſions, as a<g ref="char:EOLhyphen"/>foreſaid, or with ſuch other Omiſſions, Additi<g ref="char:EOLhyphen"/>ons, or Alterations as ſhall be proper and ne<g ref="char:EOLhyphen"/>ceſſary for making good of Indictments, Pre<g ref="char:EOLhyphen"/>ſentments, Commiſſions, Captions and In<g ref="char:EOLhyphen"/>quiſitions, and ſupplying the ſence and mean<g ref="char:EOLhyphen"/>ing thereof, according to the preſent Govern<g ref="char:EOLhyphen"/>ment of this Commonwealth under the <hi>LORD PROTECTOR</hi> as aforeſaid, ſhall ſtand and be good and effectual in Law to all intents and purpoſes, as if the ſame had been particularly herein named, Any Law, Cuſtome, or Vſage to the contrary in any wiſe notwithſtanding.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Monday</hi> the 26. of <hi>December,</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>Ordered by His Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>HEN. SCOBELL, Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> Printer to his Highneſs the Lord Protector, MDCLIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
